@@ -1,9 +1,10 @@
 defmodule StackavWeb.CommanallView do
   use StackavWeb, :view
 
+
   alias StackavWeb.CommanallView
   @moduledoc """
-    This is commanall view
+    This is commanall view.
   """
 
   @doc"""
